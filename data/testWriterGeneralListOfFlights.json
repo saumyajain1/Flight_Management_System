@@ -1,0 +1,54 @@
+{"List Of Flights": [
+    {
+        "Arrival time": "",
+        "Flying": false,
+        "Active status": false,
+        "Departure destination": "",
+        "Capacity": 300,
+        "Arrival destination": "",
+        "Departure date": "",
+        "Occupancy": 0,
+        "Arrival date": "",
+        "Flight number": "EK3121",
+        "Departure time": ""
+    },
+    {
+        "Arrival time": "",
+        "Flying": false,
+        "Active status": false,
+        "Departure destination": "",
+        "Capacity": 200,
+        "Arrival destination": "",
+        "Departure date": "",
+        "Occupancy": 0,
+        "Arrival date": "",
+        "Flight number": "QA1797",
+        "Departure time": ""
+    },
+    {
+        "Arrival time": "06:00 UTC",
+        "Flying": true,
+        "Active status": true,
+        "Departure destination": "Vancouver",
+        "Capacity": 250,
+        "Arrival destination": "NYC",
+        "Departure date": "01/03/2022",
+        "Occupancy": 60,
+        "Arrival date": "02/03/2022",
+        "Flight number": "AI1525",
+        "Departure time": "22:00 UTC"
+    },
+    {
+        "Arrival time": "16:00 UTC",
+        "Flying": false,
+        "Active status": true,
+        "Departure destination": "LA",
+        "Capacity": 400,
+        "Arrival destination": "Seattle",
+        "Departure date": "01/03/2022",
+        "Occupancy": 0,
+        "Arrival date": "01/03/2022",
+        "Flight number": "IA683",
+        "Departure time": "12:00 UTC"
+    }
+]}
